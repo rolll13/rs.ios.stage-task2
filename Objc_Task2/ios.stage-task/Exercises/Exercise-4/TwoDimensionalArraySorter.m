@@ -3,7 +3,7 @@
 @implementation TwoDimensionalArraySorter
 
 - (NSArray *)twoDimensionalSort:(NSArray<NSArray *> *)array {
-    return @[];
+    return nil;
 }
 
 @end
